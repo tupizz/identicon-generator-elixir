@@ -15,6 +15,8 @@ string
 
 # process
 
+
+```js
 string 
 --> md5 hash of string (hashing) => f(s) = x, for any s always should return x
 --> list of numbers based on string 
@@ -22,3 +24,4 @@ string
 --> build grid of squares 
 --> convert grid into image 
 --> save image
+```
