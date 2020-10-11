@@ -13,6 +13,11 @@ string
 --> image
 
 
+```bash
+  mix deps.get
+```
+
+
 # process
 
 
